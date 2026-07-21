@@ -1,8 +1,51 @@
 {
  "schema": 1,
- "updated": "2026-07-21T11:18:12Z",
+ "updated": "2026-07-21T14:21:12Z",
  "repo": "binding7012/FlyDSL",
  "runs": [
+  {
+   "run_id": 29826248042,
+   "pr": null,
+   "commit": "8e70ae73ebb58a6c20c1c8ea719ae41ce0f124ad",
+   "branch": "main",
+   "event": "push",
+   "title": "[Feat] Export shuffle xor/up/down/idx ops (#871)",
+   "status": "queued",
+   "conclusion": null,
+   "url": "https://github.com/binding7012/FlyDSL/actions/runs/29826248042",
+   "created_at": "2026-07-21T11:28:35Z",
+   "updated_at": "2026-07-21T11:29:17Z",
+   "actor": "binding7012",
+   "jobs": [
+    {
+     "runner": "linux-flydsl-mi325-1",
+     "arch": "gfx942",
+     "status": "queued",
+     "conclusion": null,
+     "started_at": "2026-07-21T11:29:17Z",
+     "completed_at": null,
+     "url": "https://github.com/binding7012/FlyDSL/actions/runs/29826248042/job/88620288788"
+    },
+    {
+     "runner": "linux-flydsl-navi-2",
+     "arch": "gfx1201",
+     "status": "queued",
+     "conclusion": null,
+     "started_at": "2026-07-21T11:29:17Z",
+     "completed_at": null,
+     "url": "https://github.com/binding7012/FlyDSL/actions/runs/29826248042/job/88620288813"
+    },
+    {
+     "runner": "linux-flydsl-mi355-1",
+     "arch": "gfx950",
+     "status": "queued",
+     "conclusion": null,
+     "started_at": "2026-07-21T11:29:17Z",
+     "completed_at": null,
+     "url": "https://github.com/binding7012/FlyDSL/actions/runs/29826248042/job/88620288828"
+    }
+   ]
+  },
   {
    "run_id": 29310938877,
    "pr": null,
