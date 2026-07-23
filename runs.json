@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-07-22T22:15:51Z",
+ "updated": "2026-07-23T03:13:32Z",
  "repo": "binding7012/FlyDSL",
  "runs": [
   {
@@ -10,38 +10,38 @@
    "branch": "main",
    "event": "push",
    "title": "[Perf]optimize flydsl flash attention kernel for gfx942(#850)",
-   "status": "queued",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "cancelled",
    "url": "https://github.com/binding7012/FlyDSL/actions/runs/29887854508",
    "created_at": "2026-07-22T03:12:41Z",
-   "updated_at": "2026-07-22T03:13:20Z",
+   "updated_at": "2026-07-23T03:13:22Z",
    "actor": "binding7012",
    "jobs": [
     {
      "runner": "linux-flydsl-navi-2",
      "arch": "gfx1201",
-     "status": "queued",
-     "conclusion": null,
+     "status": "completed",
+     "conclusion": "cancelled",
      "started_at": "2026-07-22T03:13:20Z",
-     "completed_at": null,
+     "completed_at": "2026-07-23T03:13:21Z",
      "url": "https://github.com/binding7012/FlyDSL/actions/runs/29887854508/job/88822161023"
     },
     {
      "runner": "linux-flydsl-mi355-1",
      "arch": "gfx950",
-     "status": "queued",
-     "conclusion": null,
+     "status": "completed",
+     "conclusion": "cancelled",
      "started_at": "2026-07-22T03:13:20Z",
-     "completed_at": null,
+     "completed_at": "2026-07-23T03:13:21Z",
      "url": "https://github.com/binding7012/FlyDSL/actions/runs/29887854508/job/88822161028"
     },
     {
      "runner": "linux-flydsl-mi325-1",
      "arch": "gfx942",
-     "status": "queued",
-     "conclusion": null,
+     "status": "completed",
+     "conclusion": "cancelled",
      "started_at": "2026-07-22T03:13:20Z",
-     "completed_at": null,
+     "completed_at": "2026-07-23T03:13:21Z",
      "url": "https://github.com/binding7012/FlyDSL/actions/runs/29887854508/job/88822161035"
     }
    ]
