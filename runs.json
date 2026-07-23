@@ -1,8 +1,51 @@
 {
  "schema": 1,
- "updated": "2026-07-23T03:44:13Z",
+ "updated": "2026-07-23T08:44:21Z",
  "repo": "binding7012/FlyDSL",
  "runs": [
+  {
+   "run_id": 29982194630,
+   "pr": null,
+   "commit": "8fcfee4421e48d9f011a6af88eecd512e345176b",
+   "branch": "main",
+   "event": "push",
+   "title": "Skill: align kernel-authoring with code-cleanup (drop buffer_ops/Arit\u2026",
+   "status": "queued",
+   "conclusion": null,
+   "url": "https://github.com/binding7012/FlyDSL/actions/runs/29982194630",
+   "created_at": "2026-07-23T05:27:29Z",
+   "updated_at": "2026-07-23T05:28:10Z",
+   "actor": "binding7012",
+   "jobs": [
+    {
+     "runner": "linux-flydsl-mi355-1",
+     "arch": "gfx950",
+     "status": "queued",
+     "conclusion": null,
+     "started_at": "2026-07-23T05:28:10Z",
+     "completed_at": null,
+     "url": "https://github.com/binding7012/FlyDSL/actions/runs/29982194630/job/89126320346"
+    },
+    {
+     "runner": "linux-flydsl-navi-2",
+     "arch": "gfx1201",
+     "status": "queued",
+     "conclusion": null,
+     "started_at": "2026-07-23T05:28:10Z",
+     "completed_at": null,
+     "url": "https://github.com/binding7012/FlyDSL/actions/runs/29982194630/job/89126320392"
+    },
+    {
+     "runner": "linux-flydsl-mi325-1",
+     "arch": "gfx942",
+     "status": "queued",
+     "conclusion": null,
+     "started_at": "2026-07-23T05:28:10Z",
+     "completed_at": null,
+     "url": "https://github.com/binding7012/FlyDSL/actions/runs/29982194630/job/89126320397"
+    }
+   ]
+  },
   {
    "run_id": 29887854508,
    "pr": null,
