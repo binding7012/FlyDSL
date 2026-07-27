@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-07-27T01:08:27Z",
+ "updated": "2026-07-27T04:01:42Z",
  "repo": "binding7012/FlyDSL",
  "runs": [
   {
@@ -10,11 +10,11 @@
    "branch": "main",
    "event": "push",
    "title": "[3/5] autotune: add offline config artifacts (#770) (#786)",
-   "status": "in_progress",
+   "status": "queued",
    "conclusion": null,
    "url": "https://github.com/binding7012/FlyDSL/actions/runs/30229079491",
    "created_at": "2026-07-27T01:08:08Z",
-   "updated_at": "2026-07-27T01:08:13Z",
+   "updated_at": "2026-07-27T01:08:47Z",
    "actor": "binding7012",
    "jobs": []
   },
