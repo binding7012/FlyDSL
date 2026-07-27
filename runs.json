@@ -1,8 +1,23 @@
 {
  "schema": 1,
- "updated": "2026-07-26T22:12:15Z",
+ "updated": "2026-07-27T01:08:27Z",
  "repo": "binding7012/FlyDSL",
  "runs": [
+  {
+   "run_id": 30229079491,
+   "pr": null,
+   "commit": "9d80c1336b3761f2a5511af3e06b4c748702f118",
+   "branch": "main",
+   "event": "push",
+   "title": "[3/5] autotune: add offline config artifacts (#770) (#786)",
+   "status": "in_progress",
+   "conclusion": null,
+   "url": "https://github.com/binding7012/FlyDSL/actions/runs/30229079491",
+   "created_at": "2026-07-27T01:08:08Z",
+   "updated_at": "2026-07-27T01:08:13Z",
+   "actor": "binding7012",
+   "jobs": []
+  },
   {
    "run_id": 30196253678,
    "pr": null,
@@ -10,11 +25,11 @@
    "branch": "main",
    "event": "push",
    "title": "Refactor mxmoe (#892)",
-   "status": "queued",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "cancelled",
    "url": "https://github.com/binding7012/FlyDSL/actions/runs/30196253678",
    "created_at": "2026-07-26T09:19:40Z",
-   "updated_at": "2026-07-26T09:20:18Z",
+   "updated_at": "2026-07-27T01:08:10Z",
    "actor": "binding7012",
    "jobs": []
   },
