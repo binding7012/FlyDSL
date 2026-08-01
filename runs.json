@@ -1,8 +1,38 @@
 {
  "schema": 1,
- "updated": "2026-08-01T03:49:29Z",
+ "updated": "2026-08-01T06:52:44Z",
  "repo": "binding7012/FlyDSL",
  "runs": [
+  {
+   "run_id": 30688579285,
+   "pr": null,
+   "commit": "5675194f18f0655ce1f979c517f673533963fa93",
+   "branch": "main",
+   "event": "push",
+   "title": "[Fix] Resolve reg offset on dynamic add_offset chains (#926)",
+   "status": "in_progress",
+   "conclusion": null,
+   "url": "https://github.com/binding7012/FlyDSL/actions/runs/30688579285",
+   "created_at": "2026-08-01T06:52:25Z",
+   "updated_at": "2026-08-01T06:52:35Z",
+   "actor": "binding7012",
+   "jobs": []
+  },
+  {
+   "run_id": 30683089375,
+   "pr": null,
+   "commit": "cf1db2fe0adff6ff72017d804f3b00973475368e",
+   "branch": "main",
+   "event": "push",
+   "title": "perf(attention): keep a head's Q-blocks on one XCD in the dualwave ma\u2026",
+   "status": "completed",
+   "conclusion": "cancelled",
+   "url": "https://github.com/binding7012/FlyDSL/actions/runs/30683089375",
+   "created_at": "2026-08-01T04:00:40Z",
+   "updated_at": "2026-08-01T06:52:26Z",
+   "actor": "binding7012",
+   "jobs": []
+  },
   {
    "run_id": 30601545892,
    "pr": null,
