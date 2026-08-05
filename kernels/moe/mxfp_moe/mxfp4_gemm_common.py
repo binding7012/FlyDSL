@@ -16,7 +16,7 @@ from . import dpp_utils
 _PTR3 = "!llvm.ptr<3>"
 kStages = 2
 kBS_stride_k0_dw = 64
-LOG2E = 1.4426950408889634  # log2(e): rewrites exp(x) as exp2(x * LOG2E) for the hardware exp2
+LOG2E = 1.4426950408889634
 
 
 def _raw(v):
