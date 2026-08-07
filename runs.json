@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-08-07T07:40:58Z",
+ "updated": "2026-08-07T09:01:59Z",
  "repo": "binding7012/FlyDSL",
  "runs": [
   {
@@ -10,11 +10,11 @@
    "branch": "main",
    "event": "push",
    "title": "[cleanup] Migrate kernels to fx.copy / .llvm_ptr; expand kernel-code-\u2026",
-   "status": "queued",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "cancelled",
    "url": "https://github.com/binding7012/FlyDSL/actions/runs/31087276624",
    "created_at": "2026-08-06T09:00:47Z",
-   "updated_at": "2026-08-06T09:01:35Z",
+   "updated_at": "2026-08-07T09:01:36Z",
    "actor": "binding7012",
    "jobs": []
   },
