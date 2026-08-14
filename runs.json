@@ -1,8 +1,23 @@
 {
  "schema": 1,
- "updated": "2026-08-14T05:02:04Z",
+ "updated": "2026-08-14T07:49:57Z",
  "repo": "binding7012/FlyDSL",
  "runs": [
+  {
+   "run_id": 31780417411,
+   "pr": null,
+   "commit": "ac227c35029d2008282cbf035caa5923b769d37e",
+   "branch": "main",
+   "event": "push",
+   "title": "Fix GitHub Pages docs deployment (#1006)",
+   "status": "queued",
+   "conclusion": null,
+   "url": "https://github.com/binding7012/FlyDSL/actions/runs/31780417411",
+   "created_at": "2026-08-14T07:33:59Z",
+   "updated_at": "2026-08-14T07:34:40Z",
+   "actor": "binding7012",
+   "jobs": []
+  },
   {
    "run_id": 31576706579,
    "pr": null,
