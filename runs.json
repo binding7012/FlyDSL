@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "updated": "2026-08-18T09:48:32Z",
+ "updated": "2026-08-18T09:51:39Z",
  "repo": "binding7012/FlyDSL",
  "runs": [
   {
@@ -10,11 +10,11 @@
    "branch": "main",
    "event": "push",
    "title": "[CI] Skip amdgpu repo during manylinux image dnf install (#1014)",
-   "status": "queued",
-   "conclusion": null,
+   "status": "completed",
+   "conclusion": "cancelled",
    "url": "https://github.com/binding7012/FlyDSL/actions/runs/32017248777",
    "created_at": "2026-08-17T09:50:40Z",
-   "updated_at": "2026-08-17T09:51:21Z",
+   "updated_at": "2026-08-18T09:51:22Z",
    "actor": "binding7012",
    "jobs": []
   },
